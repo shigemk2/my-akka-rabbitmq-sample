@@ -1,4 +1,3 @@
 # my-akka-rabbitmq-sample
 
-ダウンロードできない
-
+TODO: rabbitmqのインポートが出来ない。
